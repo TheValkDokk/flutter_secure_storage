@@ -1,0 +1,2 @@
+/Users/valkdokk/Documents/GitHub/flutter_secure_storage/flutter_secure_storage/example/android/app/.cxx/Debug/435v2t60/x86/CMakeFiles/edit_cache.dir
+/Users/valkdokk/Documents/GitHub/flutter_secure_storage/flutter_secure_storage/example/android/app/.cxx/Debug/435v2t60/x86/CMakeFiles/rebuild_cache.dir
